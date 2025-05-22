@@ -1,3 +1,7 @@
-LeiloesTDSat/build/
-LeiloesTDSat/nbproject/private/
+Ignorar arquivos do Netbeans e builds
+nbproject/
+build/
+dist/
 *.class
+.idea/
+*.iml
